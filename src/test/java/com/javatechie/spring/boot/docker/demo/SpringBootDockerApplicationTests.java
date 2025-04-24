@@ -11,7 +11,6 @@ public class SpringBootDockerApplicationTests {
 
 	@Test
 	public void contextLoads() {
-
 		System.out.println("Added Jenkins Pipeline");
 		System.out.println("Hello Spring Boot Inside Test Class");
 	}
